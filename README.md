@@ -12,6 +12,8 @@ We gathered our data from a publicly accessible source at the following link: "h
 
 Further details can be found here: "https://ride.citibikenyc.com/system-data"
 
+[The full Tableau story that is displayed below can be found here](https://public.tableau.com/app/profile/michael.pournaras/viz/CitiBike_Challenge_16549765957550/NYC_CitiBIke_Story)
+
 ## Results:
 
 I started by using Pandas to turn the trip duration for each ride in the initial data from seconds (integer) to datetime. 
@@ -21,6 +23,7 @@ This was the process I used:
 <img src="https://github.com/mpournaras/bikesharing/blob/main/Resources/dtCode.png" width="450" height="300">
 
 Once this was complete, we exported to a fresh CSV to begin the graphical analysis in Tableau.
+
 
 #### How long were the bikes being used for each ride? Did rider gender have any effect?
 

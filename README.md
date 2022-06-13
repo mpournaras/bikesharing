@@ -6,7 +6,7 @@
 The purpose of this challenge was to determine for investors and potential stakeholders that a bike sharing program in Des Moines, Iowa is a workable business proposal
 
 #### What will we be looking at?
-CitiBike has a bike share program in NYC and their data is publicly available. This is a great resource that we will take advantage of. We will take a subset of data and analyze it to try and determine patterns and elements that may translate from an NYC program to a similar one in Des Moines. We will be loking at bike share data from August 2019 as it was a nice summer time when folks were out bike rental was likely
+CitiBike has a bike share program in NYC and their data is publicly available. This is a great resource that we will take advantage of. We will take a subset of data and analyze it to try and determine patterns and elements that may translate from an NYC program to a similar one in Des Moines. We will be loking at bike share data from August 2019 as it was an active summer time when folks were out and bike rental was likely
 
 We gathered our data from a publicly accessible source at the following link: "https://s3.amazonaws.com/tripdata/index.html"
 
